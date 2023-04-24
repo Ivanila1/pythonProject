@@ -1,3 +1,7 @@
-def func(a, b):
+def sum_(a, b):
     c = a + b
+    return c
+
+def minus(a, b):
+    c = a - b
     return c
